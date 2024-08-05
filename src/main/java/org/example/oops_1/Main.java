@@ -11,7 +11,7 @@ public class Main {
         student1.changeBatch();
         student1.joinClass();
 
-        System.out.println(student1);
+        // System.out.println(student1);
 
 
         Student student2 = new Student();
