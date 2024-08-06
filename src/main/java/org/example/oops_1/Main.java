@@ -19,5 +19,6 @@ public class Main {
        student2.age =24;
 
        student2.joinClass();
+       System.out.println("HEeelo");
     }
 }
